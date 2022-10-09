@@ -1,5 +1,4 @@
 import re
-
 my_string = "I like to run in the morning."
 my_string_1 = "Dabcaabc"
 my_string_2 = "9"
